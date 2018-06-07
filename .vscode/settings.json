@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "E:\\nguyen.thom\\projects\\RnD\\js\\nodejs\\source\\gitlab_source\\workspace.backend_node"
+		}
+	],
+	"settings":
+	{
+  	"sonarlint.ls.javaHome":"C:\\Program Files\\Java\\jdk1.8.0_144",
+		"sonarlint.connectedMode.project": {
+			"serverId" : "1c14e1e73013a6e",
+			"projectKey": "java-workspace-nodejs"
+		},
+		"sonarlint.connectedMode.servers": [{
+			"serverId": "1c14e1e73013a6e",
+			"serverUrl": "http://172.18.18.5:9000/sonar",
+			"token": "f162b0fca597c96a15841a2cde70a8cc20fbdd09"
+		}]
+	}
+}
